@@ -1,0 +1,1 @@
+./nbminer -a ethash -o stratum+tcp://cn.sparkpool.com:13333 -u  sp_w75618531.3090default01 -log
